@@ -1,7 +1,7 @@
 # Movie_Review
 This is a capstone project built using Django and MySQL that lets users retrieve movies; create movie reviews; authorized users are allowed to delete and update reviews.
 
-Project Workflow:
+# Project Workflow:
 Step 1: I will set up a Django project named Movie and MySQL database named Movie Muse.
 Step 2: Implement user authentication using JWT.
 Step 3: proceed to create models for movies, reviews, and users in the database.
